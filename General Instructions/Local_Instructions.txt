@@ -7,3 +7,5 @@ source myenv/Scripts/activate
 
 #install requirments
 pip install -r requirements.txt 
+
+#run basic_flask.py
